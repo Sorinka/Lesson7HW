@@ -1,0 +1,36 @@
+.square {
+    height: 100px;
+    width: 100px;
+    position: absolute;
+    top: 0;
+    text-align: right;
+
+}
+.square1 {
+    background-color: aqua;
+    left: 0;
+}
+
+.square2 {
+    background-color: red;
+    left: 16px;
+    z-index: -1;
+}
+
+.square3 {
+    background-color: yellow;
+    left: 32px;
+    z-index: -2;
+}
+
+.square4 {
+    background-color: brown;
+    left: 48px;
+    z-index: -3;
+}
+
+.square5 {
+    background-color: blue;
+    left: 64px;
+    z-index: -4;
+}
