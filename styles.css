@@ -63,7 +63,22 @@ body {
 
 }
 
+.parent1{
+    width: 300;
+    height: 100;
+    border: 2px solid black;
 
+}
+
+.child{
+    width: 100px;
+    height: 100px;
+    border: 2px solid red;
+    padding: 16px;
+    box-sizing: border-box;
+
+
+}
 
 
 
