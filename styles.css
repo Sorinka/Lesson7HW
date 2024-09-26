@@ -80,6 +80,21 @@ body {
 
 }
 
+.item{
+    height: 30px;
+    width: 30px;
+    padding: 8px;
+    border: 2px solid black;
+    border-radius: 50%;
+}
+.wrapper{
+display: flex;
+
+
+}
+
+
+
 
 
 
